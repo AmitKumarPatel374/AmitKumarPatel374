@@ -127,9 +127,10 @@
 </td>
 
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" alt="Firebase"/><br/>
-<b>Firebase</b>
+<img src="https://avatars.githubusercontent.com/u/42624838?s=200&v=4" width="55" height="55" alt="Render"/><br/>
+<b>Render</b>
 </td>
+
 
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=vercel" width="55" height="55" alt="Vercel"/><br/>
