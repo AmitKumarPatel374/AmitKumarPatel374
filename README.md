@@ -17,11 +17,129 @@
 <a href="https://instagram.com/simple_boy_amit_121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simple_boy_amit_121" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://gsap./" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/GSAP_2023.svg/revision/latest/scale-to-width-down/300?cb=20231024190052" alt="gsap" width="40" height="40"/> </a><a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="node" width="40" height="40"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="40" height="40"/> </a> <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-svg-download-png-2945092.png" alt="postman" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-icon-svg-download-png-1175138.png" alt="mongodb" width="40" height="40"/> </a><a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2415/PNG/512/redis_original_wordmark_logo_icon_146369.png" alt="mongodb" width="40" height="40"/> </a> <a href="https://oauth.net/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" 
-       alt="oauth" width="40" height="40"/>
-</a> </p>
+# 🚀 Tech Stack & Tools
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5"/><br/>
+<b>HTML5</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3"/><br/>
+<b>CSS3</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript"/><br/>
+<b>JavaScript</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java"/><br/>
+<b>Java</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=c" width="55" height="55" alt="C"/><br/>
+<b>C</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React"/><br/>
+<b>React.js</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind"/><br/>
+<b>Tailwind CSS</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" alt="Bootstrap"/><br/>
+<b>Bootstrap</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="55" height="55" alt="GSAP"/><br/>
+<b>GSAP</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js"/><br/>
+<b>Node.js</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=express" width="55" height="55" alt="Express"/><br/>
+<b>Express.js</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB"/><br/>
+<b>MongoDB</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=redis" width="55" height="55" alt="Redis"/><br/>
+<b>Redis</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" width="55" height="55" alt="OAuth"/><br/>
+<b>OAuth</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman"/><br/>
+<b>Postman</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/><br/>
+<b>Git</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub"/><br/>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code"/><br/>
+<b>VS Code</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" alt="Firebase"/><br/>
+<b>Firebase</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vercel" width="55" height="55" alt="Vercel"/><br/>
+<b>Vercel</b>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkumarpatel374&show_icons=true&locale=en&layout=compact" alt="amitkumarpatel374" /></p>
 
