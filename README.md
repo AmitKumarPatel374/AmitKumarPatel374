@@ -1,21 +1,65 @@
 ![logo](https://github.com/AmitKumarPatel374/AmitKumarPatel374/blob/main/my%20banner.jpg)
-<h1 align="center">Hi 👋, I'm Amit Kumar Patel</h1>
-<h3 align="center">student of 3rd year Computer Science Engineering.</h3>
-<img align="right" alt="coding" Width="400px" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkumarpatel374&label=Profile%20views&color=0e75b6&style=flat" alt="amitkumarpatel374" /> </p>
+# Hi 👋, I'm Amit Kumar Patel
 
-<p align="left"> <a href="https://twitter.com/amit_patel1213" target="blank"><img src="https://img.shields.io/twitter/follow/amit_patel1213?logo=twitter&style=for-the-badge" alt="amit_patel1213" /></a> </p>
+### 🚀 Full Stack MERN Developer | CSE Student | UI Enthusiast
 
-- 📫 How to reach me **amitpatel9302352967@gmail.com**
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Passionate+UI%2FUX+Builder;Computer+Science+Engineering+Student" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amit_patel1213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amit_patel1213" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amit-kumar-patel-053130316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amit-kumar-patel-053130316/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100056457007719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100056457007719" height="30" width="40" /></a>
-<a href="https://instagram.com/simple_boy_amit_121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simple_boy_amit_121" height="30" width="40" /></a>
-</p>
+</div>
+
+---
+
+<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
+## 👨‍💻 About Me
+
+- 🎓 3rd Year Computer Science Engineering Student
+- 🌱 Currently learning **Advanced MERN Stack & System Design**
+- 💡 Passionate about **Frontend Animations & Backend Architecture**
+- 🚀 Building scalable full-stack web applications
+- ⚡ Love creating modern UI/UX experiences
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/amit-kumar-patel-053130316/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+</a>
+
+<a href="https://twitter.com/amit_patel1213" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" width="55" />
+</a>
+
+<a href="https://instagram.com/simple_boy_amit_121" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="55" />
+</a>
+
+<a href="mailto:amitpatel9302352967@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55" />
+</a>
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitkumarpatel374&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumarpatel374&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img width="760" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkumarpatel374&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+
 
 # 🚀 Tech Stack & Tools
 
@@ -142,8 +186,3 @@
 
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkumarpatel374&show_icons=true&locale=en&layout=compact" alt="amitkumarpatel374" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkumarpatel374&show_icons=true&locale=en" alt="amitkumarpatel374" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkumarpatel374&" alt="amitkumarpatel374" /></p>
