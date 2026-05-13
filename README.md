@@ -1,49 +1,70 @@
-![logo](https://github.com/AmitKumarPatel374/AmitKumarPatel374/blob/main/my%20banner.jpg)
+<!-- ==================== TOP BANNER ==================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:9333EA&text=Amit%20Kumar%20Patel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20UI%20Enthusiast%20%7C%20CSE%20Student&descAlignY=55"/>
+
+<!-- ==================== PROFILE SECTION ==================== -->
+
 <div align="center">
 
-# Hi 👋, I'm Amit Kumar Patel
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Passionate+Frontend+Engineer;Backend+Architecture+Learner;Building+Modern+Web+Experiences;Always+Learning+New+Technologies"/>
 
-### 🚀 Full Stack MERN Developer | CSE Student | UI Enthusiast
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Passionate+UI%2FUX+Builder;Computer+Science+Engineering+Student" />
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/📄_Resume-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AmitKumarPatel374">
+<img src="https://img.shields.io/github/followers/AmitKumarPatel374?style=for-the-badge&color=7C3AED"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=AmitKumarPatel374&style=for-the-badge&color=7C3AED"/>
 
 </div>
 
 ---
 
-<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<!-- ==================== ABOUT ME ==================== -->
 
-## 👨‍💻 About Me
+<img align="right" alt="coding" width="370" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
+# 👨‍💻 About Me
 
 - 🎓 3rd Year Computer Science Engineering Student
-- 🌱 Currently learning **Advanced MERN Stack & System Design**
-- 💡 Passionate about **Frontend Animations & Backend Architecture**
-- 🚀 Building scalable full-stack web applications
-- ⚡ Love creating modern UI/UX experiences
+- 🚀 Full Stack MERN Developer
+- 🌱 Currently Learning **Advanced MERN + AWS + System Design**
+- 💡 Passionate About **Modern UI/UX & Backend Architecture**
+- ⚡ Love Building Interactive Web Applications
+- 🔥 Focused on Real World Projects & Scalable Apps
+- 🧠 Solving DSA & Improving Problem Solving Skills
+
+<br clear="right"/>
 
 ---
 
-## 🌐 Connect With Me
+<!-- ==================== CURRENT FOCUS ==================== -->
 
-<div align="center">
+# 📌 Current Focus
 
-<a href="https://www.linkedin.com/in/amit-kumar-patel-053130316/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55" />
-</a>
 
-<a href="https://twitter.com/amit_patel1213" target="_blank">
-<img src="https://skillicons.dev/icons?i=twitter" width="55" />
-</a>
+🚀 Building:
+  - Full Stack MERN Applications
+  - Interactive Frontend UI
+  - Backend APIs & Authentication
 
-<a href="https://instagram.com/simple_boy_amit_121" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" width="55" />
-</a>
+☁ Learning:
+  - AWS Cloud
+  - Deployment & DevOps
 
-<a href="mailto:amitpatel9302352967@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55" />
-</a>
+🎯 Goals:
+  - Become Industry Ready Developer
+  - Contribute to Open Source
+  - Build SaaS Products
 
-</div>
 
 ---
 
@@ -186,3 +207,24 @@
 
 </div>
 
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/amit-kumar-patel-053130316/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+</a>
+
+<a href="https://twitter.com/amit_patel1213" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" width="55" />
+</a>
+
+<a href="https://instagram.com/simple_boy_amit_121" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="55" />
+</a>
+
+<a href="mailto:amitpatel9302352967@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55" />
+</a>
+
+</div>
