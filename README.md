@@ -10,11 +10,11 @@
 
 <br/>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="">
 <img src="https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME_LINK">
+<a href="https://drive.google.com/file/d/1FAUM8yR_JXIEPddYhP59N30yLdP7GO0o/view?usp=drive_link">
 <img src="https://img.shields.io/badge/📄_Resume-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
